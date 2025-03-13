@@ -26,6 +26,7 @@
 	  <default>https://convenienturl.com/sddm/background.php</default>
     </entry>
 
+	<!-- This is an enum (integer) representing one of the various fill Mode properties of a QTQuick Image: https://doc.qt.io/qt-6/qml-qtquick-image.html#fillMode-prop -->
     <entry name="FillMode" type="int">
       <label>Image Fill Mode</label>
 	  <default>2</default>

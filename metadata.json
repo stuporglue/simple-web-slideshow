@@ -18,15 +18,15 @@
         "Category": "",
         "Description": "Wallpaper plugin to fetch wallpapers from local server",
         "Icon": "preferences-desktop-wallpaper",
-        "Id": "com.plasma.wallpaper.moorephotos",
+        "Id": "com.stuporglue.simplewebslideshow",
         "License": "GPLv2+",
-        "Version": "0.9.0",
-        "Name": "moorephotos",
-        "Website": "https://github.com/Blacksuan19/wallhaven-wallpaper-plasma6",
-        "BugReportUrl": "https://github.com/Blacksuan19/wallhaven-wallpaper-plasma6"
+        "Version": "0.0.1",
+        "Name": "Simple Web Slideshow",
+        "Website": "https://github.com/stuporglue/simple-web-slideshow",
+        "BugReportUrl": "https://github.com/stuporglue/simple-web-slideshow/issues"
     },
     "Keywords": [
-        "wallhaven",
+        "simple-web-slideshow",
         "wallpaper"
     ],
     "X-KDE-ParentApp": "org.kde.plasmashell",
