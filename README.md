@@ -1,3 +1,10 @@
+WARNING
+=======
+
+This is a work in progress. I have things working on my local machine, but I am still cleaning them up to make them sharable.
+
+
+
 Simple Web Slideshow
 ====================
 
