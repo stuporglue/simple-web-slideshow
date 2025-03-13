@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kcfg xmlns="http://www.kde.org/standards/kcfg/1.0"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.kde.org/standards/kcfg/1.0
+      http://www.kde.org/standards/kcfg/1.0/kcfg.xsd">
+  <kcfgfile name=""/>
+
+  <group name="General">
+    <entry name="RefreshDelay" type="int">
+      <label>How long between walpaper refreshes?</label>
+      <default>10</default>
+    </entry>
+
+    <entry name="CrossfadeTime" type="int">
+      <label>How many seconds should the crossfade last?</label>
+      <default>1</default>
+    </entry>
+
+
+    <entry name="LogMessages" type="bool">
+      <label>Should messages be logged to the journal?</label>
+      <default>true</default>
+    </entry>
+
+    <entry name="ImageURL" type="String">
+      <label>Image URL</label>
+	  <default>https://convenienturl.com/sddm/background.php</default>
+    </entry>
+
+    <entry name="FillMode" type="int">
+      <label>Image Fill Mode</label>
+	  <default>2</default>
+    </entry>
+
+  </group>
+</kcfg>
